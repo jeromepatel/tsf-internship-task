@@ -1,4 +1,4 @@
-# tsf-internship-task
+# GRIPMAR2021, The Spark Foundation Internship
 The Spark Foundation Internship Task Exploratory Data Analysis
 
 This repo contains code for the submission of my tsf internship task
